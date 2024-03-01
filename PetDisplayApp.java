@@ -72,11 +72,11 @@ public class PetDisplayApp extends JFrame {
 
     private void loadPetImages() {
         petImages = new HashMap<>();
-        petImages.put("Bird", new ImageIcon("D:\\java\\bird.jpg")); // Replace with the actual file path for the bird image
-        petImages.put("Cat", new ImageIcon("D:\\java\\cat.jpg"));   // Replace with the actual file path for the cat image
-        petImages.put("Dog", new ImageIcon("D:\\java\\dog.jpg"));   // Replace with the actual file path for the dog image
-        petImages.put("Rabbit", new ImageIcon("D:\\java\\rabbit.jpg")); // Replace with the actual file path for the rabbit image
-        petImages.put("Pig", new ImageIcon("D:\\java\\pig.jpg"));     // Replace with the actual file path for the pig image
+        petImages.put("Bird", new ImageIcon("D:\\java\\bird.jpg")); 
+        petImages.put("Cat", new ImageIcon("D:\\java\\cat.jpg"));   
+        petImages.put("Dog", new ImageIcon("D:\\java\\dog.jpg"));   
+        petImages.put("Rabbit", new ImageIcon("D:\\java\\rabbit.jpg")); 
+        petImages.put("Pig", new ImageIcon("D:\\java\\pig.jpg"));    
     }
 
 
